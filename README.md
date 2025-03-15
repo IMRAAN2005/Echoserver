@@ -73,9 +73,10 @@ print(f"Received {data!r}")
 
 
 
-![alt text](<Screenshot 2025-03-12 204559.png>)
+![image](https://github.com/user-attachments/assets/d4c81c38-48c6-4fe9-927a-f4bdafb29bad)
 
-![alt text](<Screenshot 2025-03-12 204453.png>)
+![image](https://github.com/user-attachments/assets/c6e9cbf0-6b34-47ec-8076-bfb541dbae43)
+
 
 
 
